@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luissancar/AndroidStudioProjects/autocompletetextview1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0889beb6c9e76be46fdee581b8f7a54a1b8b085a">
+        <dex dex="/Users/luissancar/AndroidStudioProjects/autocompletetextview1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b72389573fde5b097287f8e95fe483a320b18952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissancar/AndroidStudioProjects/autocompletetextview1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5d5feedc9a4c36cec1aa217b524ada366f848f0c">
+        <dex dex="/Users/luissancar/AndroidStudioProjects/autocompletetextview1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abd2444188501ea53220e4794e81bb2dd744acb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luissancar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/luissancar/AndroidStudioProjects/autocompletetextview1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_314bd47b19aae901e320c7fb85f600ff2c9dda74/classes.dex" />
+    </item>
+
+</items>
